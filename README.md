@@ -35,7 +35,7 @@ According to the supplied project setup documentation, the application uses a **
 | Model detail | Documented value |
 |---|---|
 | Regression algorithm | Gradient Boosting Regressor |
-| R² score | 99.96% (as stated in the supplied setup notes) |
+| R² score | 95.96% (as stated in the supplied setup notes) |
 | RMSE | Approximately ₹2.93 Lakhs |
 | Training data size | 250,000+ property records |
 | Prediction target | Property price |
